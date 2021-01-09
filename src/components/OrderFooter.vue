@@ -1,6 +1,6 @@
 <template>
     <div>
-        orderlist
+        orderfooter
     </div>
 </template>
 
